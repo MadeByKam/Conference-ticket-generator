@@ -4,6 +4,14 @@
 
 The Conference Ticket Generator is a single-page web application that allows users to generate a personalized ticket for the "Coding Conf 2025". Users can upload their avatar, enter their name, email, and GitHub username, and instantly receive a visually styled ticket with their details and a unique ticket number.
 
+###Starting page
+<img width="6036" height="4412" alt="Starting page" src="https://github.com/user-attachments/assets/14a992d8-f712-4d14-8076-e7ea5fc5ecf1" />
+
+###Confirmation page
+<img width="3018" height="2206" alt="Confirmation page" src="https://github.com/user-attachments/assets/ff7737f0-dbb5-4290-81ac-19fe145abe7e" />
+
+
+
 ## Technologies Used
 
 - **HTML5**: Structure of the web page and form.
